@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace HotelProject.EntityLayer.Concrete
 {
-    public class Subscripe
+    public class Subscribe
     {
-        public int SubscripeID { get; set; }
+        public int SubscribeID { get; set; }
         public string Mail { get; set; }
     }
 }
