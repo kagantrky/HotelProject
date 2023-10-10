@@ -1,5 +1,7 @@
 # HotelProject
 ASP.NET Core 5.0 Apı Hotel Project
+
+
 English:
 It is a hotel project on ASP.NET Core 5.0 that is mostly consumed via API. Database is created and controlled with Microsoft Sql Server.
 Türkçe:
